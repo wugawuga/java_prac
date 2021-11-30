@@ -9,3 +9,7 @@
   * 조건문
   * 반복문
   * 스코프
+* 21-11-30
+  * String.format();
+  * java.util.Scanner;
+  * 구구단 만들기
