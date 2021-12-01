@@ -13,3 +13,5 @@
   * String.format();
   * java.util.Scanner;
   * 구구단 만들기
+* 21-12-01
+  * 알고리즘 연습
